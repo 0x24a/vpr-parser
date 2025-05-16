@@ -1,0 +1,7 @@
+[project]
+name = "vpr-parser"
+version = "0.1.0"
+description = "Pydantic-based VOCALOID5 Editor Project (.vpr) file parser & unparser"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
